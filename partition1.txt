@@ -1,0 +1,2 @@
+mkdir partition1
+cp image.jpg partition1/
